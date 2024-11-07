@@ -8,8 +8,6 @@ criaCartao(
     'Geografia',
     'Qual a capital do Brasil?',
     'A capital do Brasil é Brasilia'
-    'Qual o maior rio do mundo em extenção?'
-    'Rio Amazonas'
 )
 
 criaCartao(
