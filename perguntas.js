@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz gato em Inglês?',
-    'Oi em ingles é cat'
+    'Gato em ingles é cat'
 )
